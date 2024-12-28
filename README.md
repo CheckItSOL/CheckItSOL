@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CheckItSOL/LARPCHECK/main/assets/banner.png" alt="$CHECK Banner" width="100%">
-</p>
-
 <div align="center">
   <h1>$CHECK</h1>
   <p><i>Building trust through transparency</i></p>
